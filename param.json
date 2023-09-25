@@ -1,0 +1,11 @@
+{
+    "mime_type":"wav",
+    "assess_ref":{
+        "text":"hello,what can i do for you?",
+        "core_type":"en.pred.score",
+        "support_recite":true,
+        "recite_rank": 9,
+        "support_wb":true,
+        "score_rank":45
+    }
+}

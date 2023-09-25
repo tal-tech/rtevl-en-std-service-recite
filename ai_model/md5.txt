@@ -1,0 +1,11 @@
+11e143fca931321143249221e8a2c07f  ./libeval_core.so
+53597fc15d38f8c4a8d53861ac40a81b  ./md5_new.txt
+5036fb12235a9633f5496136cbdf1cf8  ./md5.txt
+c605df75eb376e711da1da1fa599db09  ./models/online_v1.2.en.201118/online_v1.2.en.201118.res
+897cb0c00d10b1845d4f775b5019eeeb  ./models/online_v1.2.en.201118/cfg_en.json
+868d708f74dff249449923ea03720a6d  ./models/online_v1.2.en.201118/online_v1.2.en.201118.net
+b97c514e50a3ad0f93110a193910aae0  ./models/online_v1.2.cn.201218/online_v1.2.cn.201218.net
+91edb47580c21fd34f909a66bd11e59e  ./models/online_v1.2.cn.201218/cfg_cn.json
+cf30fa9d7d2b522f486a77b78486099b  ./models/online_v1.2.cn.201218/online_v1.2.cn.201218.res
+e6e247d00641a2a1b23a57467081879f  ./demo.cpp
+b3fbfbc29e87a01a89c3a3dd1da02d37  ./speech_evaluator.h

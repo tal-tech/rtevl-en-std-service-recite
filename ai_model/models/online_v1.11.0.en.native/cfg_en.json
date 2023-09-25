@@ -1,0 +1,10 @@
+{
+  "bin_fn": "online_v1.11.0.en_native.res",
+  "bin_checksum": "18000000312E30006C206968",
+  "net_fn": "online_v1.11.0.en.net",
+  "net_checksum": "1C00000054414C00F6EB263F",
+  "language": "1",
+  "encoder_fn": "encoder.mnn",
+  "decoder_fn": "decoder.mnn",
+  "gop_fn": "dnn_gop_en_snt.mnn"
+}

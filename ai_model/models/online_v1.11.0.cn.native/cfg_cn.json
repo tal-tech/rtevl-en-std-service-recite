@@ -1,0 +1,10 @@
+{
+  "bin_fn": "online_v1.11.0.cn_native.res",
+  "bin_checksum": "18000000312E30002C1F1A2C",
+  "net_fn": "online_v1.11.0.cn.net",
+  "net_checksum": "1C00000054414C007382863F",
+  "language": "0",
+  "tone_fn": "tone.mnn",
+  "tone_checksum": "1C00000054414C005223578D",
+  "gop_fn": "dnn_gop_cn_snt.mnn"
+}
